@@ -6,7 +6,7 @@ The **Library Management System** is a web-based application designed to make li
 ---
 
 ## Team Members - Team 7
-- **Aarthi pv ** - Project Head [https://github.com/aarthipv]
+- **Aarthi pv** - Project Head [https://github.com/aarthipv]
 - **Anushka Rahul Patil** - Feature Implementation [https://github.com/Anushka0909]
 - **Anirudh S Rai** - Feature Implementation [https://github.com/AnirudhRa1]
 
